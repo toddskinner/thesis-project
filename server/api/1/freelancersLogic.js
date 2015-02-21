@@ -2,13 +2,13 @@ var http = require('http');
 // var config = require('./config.js');
 
 module.exports = {
-	function getOdeskData(){
+	// function getOdeskData(){
 
-	} 
+	// } 
 
-	function getElanceData(){
+	// function getElanceData(){
 		
-	}
+	// }
 };
 
 
