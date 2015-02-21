@@ -14,7 +14,7 @@ apiRouter.get('/countriesForLanguage', function(req,res) {
 
 apiRouter.get('/eLanceData', function(req,res) {
    console.log('heard a request to eLanceData');
-   eLanceLogic.getAllData(req,res);
+   eLanceLogic.getProvidersData(req,res);
 });
 
 module.exports = apiRouter;
